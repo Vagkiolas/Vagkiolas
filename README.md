@@ -1,4 +1,4 @@
-### Hi, I'm Evangelos 👋
+### Hi, I'm Vangelis 👋
 
 Electrical & Computer Engineering student at the **University of Patras** (specialization: Signals, Control & Robotics), with an Erasmus+ semester at **Politecnico di Milano** (MSc level, Electrical Engineering).
 
